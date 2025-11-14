@@ -2,3 +2,4 @@
 *.agoda.com
 *.expedia.com.tw
 *.expedia.com
+retcode.taobao.com
