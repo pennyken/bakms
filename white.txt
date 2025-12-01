@@ -3,3 +3,4 @@
 *.expedia.com.tw
 *.expedia.com
 retcode.taobao.com
+*.hinet.net
